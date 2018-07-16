@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/topic/topic",
+    "pages/user/user"
+  ],
+  "window":{
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#e1e1e1",
+    "navigationBarBackgroundColor": "#00A0D4",
+    "navigationBarTitleText": "CNode社区",
+    "navigationBarTextStyle":"black"
+  }
+}
